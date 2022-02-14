@@ -21,6 +21,7 @@ public class Suma {
 				System.out.println("Introduce otro número positivo:");
 				System.out.println("Introduce otro número positivo");
 				//estoy modificando desde la rama de pruebas
+				//modificando desde rama de pruebas
 				b=teclado.nextInt();
 				if ((a > 0) && (b >0)) {
 					resultado= a+b;
